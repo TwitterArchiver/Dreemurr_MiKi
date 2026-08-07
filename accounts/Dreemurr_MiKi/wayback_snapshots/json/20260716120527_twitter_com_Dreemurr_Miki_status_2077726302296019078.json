@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809084384563376128",
+    "conversation_id": "2077726302296019078",
+    "created_at": "2026-07-16T12:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T13:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077726302296019078"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077726302296019078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "强强，依旧严格控制我的每一天，衣食住行什么东西都得控制我\n还乱翻我东西\n下次再被乱翻我就一刀囊死自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809084384563376128",
+        "conversation_id": "2077726302296019078",
+        "created_at": "2026-07-16T12:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077726302296019078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077726302296019078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "强强，依旧严格控制我的每一天，衣食住行什么东西都得控制我\n还乱翻我东西\n下次再被乱翻我就一刀囊死自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-05T04:38:31.000Z",
+        "description": "含糖mtx | 17岁 | 169cm 53kg | 家暴党\n\n一只绝望上学中的小药娘\n希望所有人都能拥有美好的人生\n不管您曾经经历了什么，我都希望喜乐和幸福能眷顾您",
+        "id": "1809084384563376128",
+        "location": "Nevermind",
+        "name": "一只猹🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 42,
+          "like_count": 1201,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "Dreemurr_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

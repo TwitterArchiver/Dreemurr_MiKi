@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1809084384563376128",
+    "conversation_id": "2083925813158699375",
+    "created_at": "2026-08-02T14:40:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083925813158699375"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083925813158699375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以我时常幻想，如果是女孩子是不是会有更多人爱我···\n会不会我就不会经历这些···\n家庭破碎，心态爆炸···\n或许这种羡慕是不理智的\n但是\n我脚下的这条路泥泞不堪\n我不得不向往另一条可能充满鲜花的道路···"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809084384563376128",
+        "conversation_id": "2083925813158699375",
+        "created_at": "2026-08-02T14:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083925813158699375"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083925813158699375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以我时常幻想，如果是女孩子是不是会有更多人爱我···\n会不会我就不会经历这些···\n家庭破碎，心态爆炸···\n或许这种羡慕是不理智的\n但是\n我脚下的这条路泥泞不堪\n我不得不向往另一条可能充满鲜花的道路···"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-07-05T04:38:31.000Z",
+        "description": "含糖mtx | 17岁 | 169cm 53kg | 家暴党\n\n@LuoLuo_Miki ←我的老婆\n一只绝望上学中的小药娘\n希望所有人都能拥有美好的人生\n不管您曾经经历了什么，我都希望喜乐和幸福能眷顾您",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "LuoLuo_Miki"
+              }
+            ]
+          }
+        },
+        "id": "1809084384563376128",
+        "location": "Nevermind",
+        "name": "一只猹🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 41,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 137
+        },
+        "url": "",
+        "username": "Dreemurr_Miki",
+        "verified": false
+      }
+    ]
+  }
+}
