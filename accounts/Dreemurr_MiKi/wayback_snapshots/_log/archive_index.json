@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-07T07:17:21",
+  "last_updated": "2026-09-28T08:40:07",
   "html": {
     "https://web.archive.org/web/20260715152517if_/https://twitter.com/Dreemurr_Miki/status/2077414205188124703": {
       "status": "done",
@@ -127,8 +127,8 @@
       "last_updated": "2026-09-07T07:16:42"
     },
     "https://web.archive.org/web/20260830152120if_/https://twitter.com/Dreemurr_Miki/status/2094083054251782242": {
-      "status": "failed",
-      "last_updated": "2026-09-07T07:16:48",
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:02",
       "last_reason": "HTML 下载失败：HTTPError: 503 Server Error: Service Unavailable for url: https://web.archive.org/web/20260830152120if_/https://twitter.com/Dreemurr_Miki/status/2094083054251782242",
       "miss_count": 1
     },
@@ -143,6 +143,42 @@
     "https://web.archive.org/web/20260903024135if_/https://twitter.com/Dreemurr_Miki/status/2095341406483042644": {
       "status": "done",
       "last_updated": "2026-09-07T07:16:50"
+    },
+    "https://web.archive.org/web/20260912082307if_/https://twitter.com/Dreemurr_Miki/status/2098688848830095848": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:02"
+    },
+    "https://web.archive.org/web/20260917134646if_/https://twitter.com/Dreemurr_Miki/status/2100582236726743449": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:02"
+    },
+    "https://web.archive.org/web/20260909144800if_/https://twitter.com/Dreemurr_Miki/status/2097698541904834617": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:02"
+    },
+    "https://web.archive.org/web/20260912014055if_/https://twitter.com/Dreemurr_Miki/status/2098587631034442055": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:02"
+    },
+    "https://web.archive.org/web/20260908031733if_/https://twitter.com/Dreemurr_Miki/status/2097162397127442727": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:02"
+    },
+    "https://web.archive.org/web/20260911024239if_/https://twitter.com/Dreemurr_Miki/status/2098240775918178800": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:02"
+    },
+    "https://web.archive.org/web/20260927103728if_/https://twitter.com/Dreemurr_Miki/status/2104158473978052637": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:02"
+    },
+    "https://web.archive.org/web/20260908031828if_/https://twitter.com/Dreemurr_Miki/status/2097162626891493868": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:03"
+    },
+    "https://web.archive.org/web/20260911024320if_/https://twitter.com/Dreemurr_Miki/status/2098240949885325356": {
+      "status": "done",
+      "last_updated": "2026-09-28T08:40:05"
     }
   },
   "images": {
@@ -236,6 +272,20 @@
         "20260905092145_twitter_com_Dreemurr_Miki_status_2096166888808030287.json"
       ],
       "last_updated": "2026-09-07T07:16:50"
+    },
+    "https://pbs.twimg.com/media/HTNZtRpaAAA6iT5.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260927103728_twitter_com_Dreemurr_Miki_status_2104158473978052637.json"
+      ],
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "https://pbs.twimg.com/media/HTNZtRsawAA5fCp.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260927103728_twitter_com_Dreemurr_Miki_status_2104158473978052637.json"
+      ],
+      "last_updated": "2026-09-28T08:40:07"
     }
   },
   "videos": {},
@@ -276,7 +326,17 @@
         "20260829113235_twitter_com_Dreemurr_Miki_status_2093663099265900614.json",
         "20260903011021_twitter_com_Dreemurr_Miki_status_2095318445340647558.json",
         "20260903024135_twitter_com_Dreemurr_Miki_status_2095341406483042644.json",
-        "20260905092145_twitter_com_Dreemurr_Miki_status_2096166888808030287.json"
+        "20260905092145_twitter_com_Dreemurr_Miki_status_2096166888808030287.json",
+        "20260830152120_twitter_com_Dreemurr_Miki_status_2094083054251782242.json",
+        "20260908031733_twitter_com_Dreemurr_Miki_status_2097162397127442727.json",
+        "20260908031828_twitter_com_Dreemurr_Miki_status_2097162626891493868.json",
+        "20260909144800_twitter_com_Dreemurr_Miki_status_2097698541904834617.json",
+        "20260911024239_twitter_com_Dreemurr_Miki_status_2098240775918178800.json",
+        "20260911024320_twitter_com_Dreemurr_Miki_status_2098240949885325356.json",
+        "20260912014055_twitter_com_Dreemurr_Miki_status_2098587631034442055.json",
+        "20260912082307_twitter_com_Dreemurr_Miki_status_2098688848830095848.json",
+        "20260917134646_twitter_com_Dreemurr_Miki_status_2100582236726743449.json",
+        "20260927103728_twitter_com_Dreemurr_Miki_status_2104158473978052637.json"
       ],
       "last_updated": "2026-08-07T09:59:44"
     },
@@ -300,7 +360,9 @@
         "20260816020443_twitter_com_Dreemurr_Miki_status_2088809148590719342.json",
         "20260821044621_twitter_com_Dreemurr_Miki_status_2090661760747372899.json",
         "20260826105530_twitter_com_Dreemurr_Miki_status_2092566600083804209.json",
-        "20260905092145_twitter_com_Dreemurr_Miki_status_2096166888808030287.json"
+        "20260905092145_twitter_com_Dreemurr_Miki_status_2096166888808030287.json",
+        "20260908031733_twitter_com_Dreemurr_Miki_status_2097162397127442727.json",
+        "20260909144800_twitter_com_Dreemurr_Miki_status_2097698541904834617.json"
       ],
       "last_updated": "2026-08-07T09:59:43"
     },
@@ -345,7 +407,8 @@
     "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260826105530_twitter_com_Dreemurr_Miki_status_2092566600083804209.json"
+        "20260826105530_twitter_com_Dreemurr_Miki_status_2092566600083804209.json",
+        "20260911024239_twitter_com_Dreemurr_Miki_status_2098240775918178800.json"
       ],
       "last_updated": "2026-09-07T07:17:20"
     },
@@ -366,9 +429,35 @@
     "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260903024135_twitter_com_Dreemurr_Miki_status_2095341406483042644.json"
+        "20260903024135_twitter_com_Dreemurr_Miki_status_2095341406483042644.json",
+        "20260912014055_twitter_com_Dreemurr_Miki_status_2098587631034442055.json"
       ],
       "last_updated": "2026-09-07T07:17:20"
+    },
+    "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260908031733_twitter_com_Dreemurr_Miki_status_2097162397127442727.json",
+        "20260908031828_twitter_com_Dreemurr_Miki_status_2097162626891493868.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2087593497545314304/wEcOHAkQ_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260908031733_twitter_com_Dreemurr_Miki_status_2097162397127442727.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2059265211140628480/H5bnzVuA_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260911024320_twitter_com_Dreemurr_Miki_status_2098240949885325356.json"
+      ]
+    },
+    "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260927103728_twitter_com_Dreemurr_Miki_status_2104158473978052637.json"
+      ]
     }
   },
   "media": {
@@ -796,6 +885,128 @@
         ]
       },
       "last_updated": "2026-09-07T07:16:50"
+    },
+    "20260830152120_twitter_com_Dreemurr_Miki_status_2094083054251782242.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260908031733_twitter_com_Dreemurr_Miki_status_2097162397127442727.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2087593497545314304/wEcOHAkQ_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260908031828_twitter_com_Dreemurr_Miki_status_2097162626891493868.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260909144800_twitter_com_Dreemurr_Miki_status_2097698541904834617.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260911024239_twitter_com_Dreemurr_Miki_status_2098240775918178800.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260911024320_twitter_com_Dreemurr_Miki_status_2098240949885325356.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2059265211140628480/H5bnzVuA_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260912014055_twitter_com_Dreemurr_Miki_status_2098587631034442055.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2073740142737846272/5wS-JDPo_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260912082307_twitter_com_Dreemurr_Miki_status_2098688848830095848.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260917134646_twitter_com_Dreemurr_Miki_status_2100582236726743449.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:06"
+    },
+    "20260927103728_twitter_com_Dreemurr_Miki_status_2104158473978052637.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HTNZtRpaAAA6iT5.jpg",
+          "https://pbs.twimg.com/media/HTNZtRsawAA5fCp.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-09-28T08:40:07"
     }
   }
 }
